@@ -11,6 +11,8 @@ Neste processo, diferentes atores e instituições realizaram diversas ações e
 
 Assim sendo, o objetivo deste repositório é o de documentar esta discussão que ocorreu ao longo do tempo, recuperando e disponibilizando a documentação associada a este processo.
 
+A proposta do repositório é de que seja um espaço dinâmico, documentando novas iniciativas e ações relacionados com o tema de integração de dados sobre biodiversidade.
+
 ## Marcos Temporais
 
 | Ano | Evento |
