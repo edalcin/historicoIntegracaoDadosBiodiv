@@ -31,5 +31,5 @@ A proposta do repositório é de que seja um espaço dinâmico, documentando nov
 | 2017 | Acordo de Cooperação MMA - SiBBr |
 | 2020 | Plano Estratégico de Pesquisa e Gestão do Conhecimento - ICMBio |
 | 2021 | Consultoria João Lanna |
-| 2024 | PDBio |
+| 2024 | Portaria PDBio |
 |  |  |
